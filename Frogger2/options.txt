@@ -1,0 +1,8 @@
+number_of_cars(1-50)=10
+starting_speed(1-6)=1
+points_for_win=20
+number_of_lives=3
+orientation_of_cars(left,right,both)=both
+bonuses(true,false)=true
+points_for_bonus=5
+speed_up_after_points=20
